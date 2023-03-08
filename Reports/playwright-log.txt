@@ -1,0 +1,126 @@
+{"level":30,"time":"2023-03-06T14:26:35.443Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Listening on 62997"}
+{"level":30,"time":"2023-03-06T14:26:35.499Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:35.500Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:35.505Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:35.505Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:35.510Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-03-06T14:26:35.943Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-03-06T14:26:35.948Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-03-06T14:26:35.948Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-03-06T14:26:35.974Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Changed active context"}
+{"level":30,"time":"2023-03-06T14:26:36.224Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Video path: undefined"}
+{"level":30,"time":"2023-03-06T14:26:36.224Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Changed active page"}
+{"level":30,"time":"2023-03-06T14:26:38.546Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method newPage"}
+{"level":30,"time":"2023-03-06T14:26:38.552Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method click"}
+{"level":30,"time":"2023-03-06T14:26:38.552Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"loginPanel\"]/p[2]/a in page."}
+{"level":30,"time":"2023-03-06T14:26:38.837Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method click"}
+{"level":30,"time":"2023-03-06T14:26:38.841Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:38.842Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with id=customer.address.street in page."}
+{"level":30,"time":"2023-03-06T14:26:39.028Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.032Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.032Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with id=customer.address.city in page."}
+{"level":30,"time":"2023-03-06T14:26:39.046Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.049Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.049Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with id=customer.address.state in page."}
+{"level":30,"time":"2023-03-06T14:26:39.062Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.068Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.068Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with id=customer.firstName in page."}
+{"level":30,"time":"2023-03-06T14:26:39.084Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.090Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.090Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with id=customer.lastName in page."}
+{"level":30,"time":"2023-03-06T14:26:39.103Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.106Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.106Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with id=customer.address.zipCode in page."}
+{"level":30,"time":"2023-03-06T14:26:39.123Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.127Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.127Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with id=customer.phoneNumber in page."}
+{"level":30,"time":"2023-03-06T14:26:39.138Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.141Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.141Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with id=customer.ssn in page."}
+{"level":30,"time":"2023-03-06T14:26:39.151Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.157Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.157Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with id=customer.username in page."}
+{"level":30,"time":"2023-03-06T14:26:39.167Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.171Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.171Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with id=customer.password in page."}
+{"level":30,"time":"2023-03-06T14:26:39.192Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.195Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.195Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with id=repeatedPassword in page."}
+{"level":30,"time":"2023-03-06T14:26:39.206Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:39.210Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method click"}
+{"level":30,"time":"2023-03-06T14:26:39.210Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"customerForm\"]/table/tbody/tr[13]/td[2]/input in page."}
+{"level":30,"time":"2023-03-06T14:26:39.461Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method click"}
+{"level":30,"time":"2023-03-06T14:26:39.464Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:39.485Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:39.487Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:39.489Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:39.491Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Changed active context"}
+{"level":30,"time":"2023-03-06T14:26:39.491Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Changing current active page"}
+{"level":30,"time":"2023-03-06T14:26:39.491Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Changed active page"}
+{"level":30,"time":"2023-03-06T14:26:39.494Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:39.495Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:39.497Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-03-06T14:26:39.497Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-03-06T14:26:39.499Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-03-06T14:26:39.499Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-03-06T14:26:39.502Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:39.504Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:39.505Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Changed active context"}
+{"level":30,"time":"2023-03-06T14:26:39.505Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Changing current active page"}
+{"level":30,"time":"2023-03-06T14:26:39.505Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Changed active page"}
+{"level":30,"time":"2023-03-06T14:26:39.507Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-03-06T14:26:39.512Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Removed page=cee52bd1-c069-4c39-9cb4-47e6aa8b17d9 from context=7a6ce495-b9e3-417f-876c-872b284a04e2 page stack"}
+{"level":30,"time":"2023-03-06T14:26:39.516Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-03-06T14:26:39.519Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:39.519Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:39.522Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-03-06T14:26:39.747Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-03-06T14:26:39.750Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-03-06T14:26:39.750Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-03-06T14:26:39.755Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Changed active context"}
+{"level":30,"time":"2023-03-06T14:26:40.019Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Video path: undefined"}
+{"level":30,"time":"2023-03-06T14:26:40.019Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Changed active page"}
+{"level":30,"time":"2023-03-06T14:26:41.803Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method newPage"}
+{"level":30,"time":"2023-03-06T14:26:41.806Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:41.806Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"loginPanel\"]/form/div[1]/input in page."}
+{"level":30,"time":"2023-03-06T14:26:41.841Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:41.843Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:41.843Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"loginPanel\"]/form/div[2]/input in page."}
+{"level":30,"time":"2023-03-06T14:26:41.861Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:41.864Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method click"}
+{"level":30,"time":"2023-03-06T14:26:41.864Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"loginPanel\"]/form/div[3]/input in page."}
+{"level":30,"time":"2023-03-06T14:26:42.116Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method click"}
+{"level":30,"time":"2023-03-06T14:26:42.120Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:42.120Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"loginPanel\"]/form/div[1]/input in page."}
+{"level":30,"time":"2023-03-06T14:26:42.190Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:42.193Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:42.193Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"loginPanel\"]/form/div[2]/input in page."}
+{"level":30,"time":"2023-03-06T14:26:42.201Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method fillText"}
+{"level":30,"time":"2023-03-06T14:26:42.203Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method click"}
+{"level":30,"time":"2023-03-06T14:26:42.203Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Strict mode is enabled, find Locator with xpath=//*[@id=\"loginPanel\"]/form/div[3]/input in page."}
+{"level":30,"time":"2023-03-06T14:26:42.446Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method click"}
+{"level":30,"time":"2023-03-06T14:26:42.448Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:42.465Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:42.467Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:42.469Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:42.471Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Changed active context"}
+{"level":30,"time":"2023-03-06T14:26:42.471Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Changing current active page"}
+{"level":30,"time":"2023-03-06T14:26:42.471Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Changed active page"}
+{"level":30,"time":"2023-03-06T14:26:42.473Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:42.475Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:42.477Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-03-06T14:26:42.477Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-03-06T14:26:42.478Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-03-06T14:26:42.478Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-03-06T14:26:42.481Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:42.482Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:42.484Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Changed active context"}
+{"level":30,"time":"2023-03-06T14:26:42.484Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Changing current active page"}
+{"level":30,"time":"2023-03-06T14:26:42.484Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Changed active page"}
+{"level":30,"time":"2023-03-06T14:26:42.486Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-03-06T14:26:42.488Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Removed page=4c3ecfe1-fa25-4fac-bd5b-a2c1c0e4c7fe from context=a02f3132-ec3e-456a-a7af-27f9466d19ee page stack"}
+{"level":30,"time":"2023-03-06T14:26:42.490Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-03-06T14:26:42.494Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:42.494Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-03-06T14:26:42.534Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-03-06T14:26:42.602Z","pid":65638,"hostname":"Nedu-MBP.home","msg":"End of node method closeAllBrowsers"}
